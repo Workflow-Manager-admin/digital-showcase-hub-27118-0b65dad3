@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/digital-showcase-hub-27118-0b65dad3/digital_showcase_hub"
+}
